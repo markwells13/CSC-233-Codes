@@ -54,6 +54,6 @@ line.join_line("Diana")
 
 # Serve the rest
 line.show_line()
-line.serve_person()  #Jyle gets served
+line.serve_person()  #kyle gets served
 line.serve_person()  #Diana gets served
 line.serve_person()  # Line is empty now
